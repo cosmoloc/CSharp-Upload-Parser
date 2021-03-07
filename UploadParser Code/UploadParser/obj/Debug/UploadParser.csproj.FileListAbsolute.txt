@@ -1,0 +1,8 @@
+D:\Plugin\UploadParser\UploadParser\obj\Debug\UploadParser.pdb
+D:\Plugin\UploadParser\UploadParser\obj\Debug\ResolveAssemblyReference.cache
+D:\Plugin\UploadParser\UploadParser\bin\Debug\UploadParser.dll
+D:\Plugin\UploadParser\UploadParser\bin\Debug\UploadParser.pdb
+D:\Plugin\UploadParser\UploadParser\bin\Debug\NPOI.dll
+D:\Plugin\UploadParser\UploadParser\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Plugin\UploadParser\UploadParser\bin\Debug\NPOI.xml
+D:\Plugin\UploadParser\UploadParser\obj\Debug\UploadParser.dll
